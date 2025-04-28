@@ -12,3 +12,11 @@ SQLite (database)
 Power BI (data visualization)
 Git/GitHub (version control)
 
+🧾 Dashboard Documentation
+Detailed explanations of the Power BI dashboard are available in the [Dashboard Explanation] folder.
+This folder includes:
+- Markdown files (`.md`) describing each dashboard page:
+  - Stock Screener View
+  - Historical Price View
+  - Company Detail Pages
+- Screenshots of each dashboard page for easy visualization.
