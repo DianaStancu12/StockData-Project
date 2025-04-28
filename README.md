@@ -7,10 +7,10 @@ A custom stock screener enables filtering companies based on key financial indic
 The data is visualized through an interactive Power BI dashboard that allows users to explore operational strength, valuation metrics, historical prices, and detailed company profiles.
 
 🛠️ Technologies Used
--Python (pandas, yfinance)
--SQLite (database)
--Power BI (data visualization)
--Git/GitHub (version control)
+- Python (pandas, yfinance)
+- SQLite (database)
+- Power BI (data visualization)
+- Git/GitHub (version control)
 
 🧾 Dashboard Documentation
 Detailed explanations of the Power BI dashboard are available in the [Dashboard Explanation] folder.
